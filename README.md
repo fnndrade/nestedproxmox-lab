@@ -1,7 +1,7 @@
 # nestedproxmox-lab
  Virtual infraestructure environment based on nested virtualization using Proxmox VE, designed for system administration, networking, database and monitoring practice. 
 
-Infraestructura VPS con Virtualización Anidada
+# Infraestructura VPS con virtualización anidada
 
 Proyecto de infraestructura completa desarrollado como portfolio técnico para el ciclo ASIR (Administración de Sistemas Informáticos en Red).
 
